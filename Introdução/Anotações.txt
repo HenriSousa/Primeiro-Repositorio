@@ -1,2 +1,63 @@
+#INFORMAÇÕES
+
+Abstração: Solucionar de maneira reduzida.
+
+Algoritmo: Sequência de passos para resolver um problema.
+
+Pseudocódigo: Uma forma genérica de algoritmo, escrito
+na linguagem nativa (Simples).
+
+Fluxograma: Representa o algoritmo graficamente.
+
+Variável: Espaço na memória do computador destinado a um
+dado que é alterado durante a execução do algoritmo.
+
+Constante: Valores imutáveis que não são alterados durante
+a vida útil do programa.
+
+Operadores Relacionais: Expressão composta por outras expressões
+ou variáveis numéricas. (Verdadeiro/Falso)
+
+Concatenação: Unir o conteúdo de duas Strings.
+*Strings* é uma sequência de caracteres.
+
+Estrutura de dados: Uma estrutura organizada de dados na memória.
+
+Array ou Vetores/Matrizes: São estruturas de dados simples, que
+podem auxiliar quando há muitas variáveis do mesmo tipo.
+
+Registro: Um formato especializado para armazenar informações
+em memória de varios tipos.
+
+Lista: Armazena dados de um determinado tipo em uma ordem
+específica. *Possuem tamanho ajustável*.
+
+Pilhas: Estrutura de dados que serve como uma coleção de elementos,
+permite o acesso a um item somente.
+
+Pilhas LIFO: Ultimo elemento que entra é o primeiro que sai.
+Pilhas FIFO: Primeiro elemento que entra é o primeiro que sai.
+
+Filas: Admite a remoção e inserção de elementos, o elemento
+removido é o que está a mais tempo.
+
+Arvore: Estrutura de dados que organiza seus elementos de forma
+hierárquica, onde fica um elemento no topo, chamado de raiz e os
+elementos subordinados a ele, chamados de nós ou folhas.
+
+Tabela Hash: Estrutura de dados especiais, que associa chaves de
+pesquisa a valores.
+
+Grafos: Permitem programar a relação entre objetos.
+
 O Git é um terminal extendido para otimizar o uso do Git.
 Link para Download do GIT: https://git-scm.com/downloads
+
+Sha1: (Secure Hash Algorithm) É um conjunto de funções
+hash criptográficas projetada pela NSA (National Security Agency)
+
+Objetos internos do Git: Commits, Tree e Blobs.
+
+Chave SSH: Forma segura de conecxão entre maquinas.
+Token: Um tipo de senha para conectar a sua conta.
+
