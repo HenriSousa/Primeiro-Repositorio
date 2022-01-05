@@ -1,0 +1,29 @@
+#PASSO A PASSO PARA CRIAR UM REPOSITORIO NO GITHUB.
+
+1. No site do GitHub, click em "Criar um novo repositorio"
+(New repository)
+
+2. Coloco o nome do repositorio, e uma descrição (opcional),
+adicione o README file, e click em "Creating repository"
+
+3. Para baixar o repositorio no seu Desktop, vá em "Code" e
+copie o HTTPS.
+
+4. Abra o Gitbash na pasta que você deseja inserir o repositorio 
+no seu desktop.
+
+5. No Gitbash escreva o seguinte comando, git clone (e cole o
+link do HTTPS) e de um enter.
+
+6. Para entrar no repositorio pelo Gitbash, escreva o comando
+cd (e o nome do repositorio).
+
+7. Depois de alterar o repositorio, para enviar ele atualizado
+para o GitHub escreva o comando git status para ele identificar
+as alterações, em seguida utilize o comando git add . ou
+git add -a, para adicionar os arquivos.
+
+8. Para enviar ao GitHub, utilize o comando git commit -m
+"Aqui você escreve uma descrição do que fez" e da um enter,
+em seguida utilize o comando git push origin main, de um enter
+e seu repositorio sera atualizado no GitHub.

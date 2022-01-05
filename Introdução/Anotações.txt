@@ -50,7 +50,7 @@ pesquisa a valores.
 
 Grafos: Permitem programar a relação entre objetos.
 
-O Git é um terminal extendido para otimizar o uso do Git.
+O GitBash é um terminal extendido para otimizar o uso do Git.
 Link para Download do GIT: https://git-scm.com/downloads
 
 Sha1: (Secure Hash Algorithm) É um conjunto de funções
